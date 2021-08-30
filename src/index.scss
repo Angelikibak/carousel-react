@@ -1,0 +1,22 @@
+:root {
+   --main-color: #31135e;
+   --main-color-hover: #2c1154;
+   --separator-color: #979797;
+   --error-color: #d01414;
+   --text-color: #181818;
+   --secondary-dark: #004478;
+   --secondary-light: #00a599;
+}
+
+html {
+   font-size: 62.5%;
+}
+
+body {
+   margin: 0;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+   font-family: Mulish, sans-serif;
+   background: #ffffff;
+   color: #121619;
+}

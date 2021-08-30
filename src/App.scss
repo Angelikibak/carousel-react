@@ -1,0 +1,10 @@
+.app {
+   margin: 100px 120px 87px 120px;
+   overflow: hidden;
+}
+
+@media screen and (max-width: 720px) {
+   .app {
+      margin: 100px 20px 87px 20px;
+   }
+}

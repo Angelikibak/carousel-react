@@ -1,0 +1,24 @@
+.arrow {
+   display: flex;
+   width: 48px;
+   height: 48px;
+   border: 1px solid #31135e;
+   border-radius: 25px;
+   color: #31135e;
+   justify-content: center;
+   align-items: center;
+   transition: all 0.15s ease;
+   -webkit-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+}
+
+.arrow:hover {
+   background: #31135e;
+   border: 1px solid #31135e;
+   color: #ffffff;
+}
+
+.left {
+   margin-right: 16px;
+}
